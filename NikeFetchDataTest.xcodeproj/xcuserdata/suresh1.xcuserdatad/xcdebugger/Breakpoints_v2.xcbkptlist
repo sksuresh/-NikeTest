@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NikeFetchDataTest/PresentationLayer/ViewController.m"
+            timestampString = "476905987.715805"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-downloadedData:withCurrentDownloaderObject:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController downloadedData:withCurrentDownloaderObject:]"
+                  moduleName = "NikeFetchDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh1/Desktop/NikeFetchDataTest%20/NikeFetchDataTest/PresentationLayer/ViewController.m"
+                  timestampString = "476900679.7671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[ViewController downloadedData:withCurrentDownloaderObject:]_block_invoke"
+                  moduleName = "NikeFetchDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh1/Desktop/NikeFetchDataTest%20/NikeFetchDataTest/PresentationLayer/ViewController.m"
+                  timestampString = "476900679.767336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController downloadedData:withCurrentDownloaderObject:]"
+                  moduleName = "NikeFetchDataTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh1/Desktop/NikeFetchDataTest%20/NikeFetchDataTest/PresentationLayer/ViewController.m"
+                  timestampString = "476900688.717821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[ViewController downloadedData:withCurrentDownloaderObject:]_block_invoke"
+                  moduleName = "NikeFetchDataTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suresh1/Desktop/NikeFetchDataTest%20/NikeFetchDataTest/PresentationLayer/ViewController.m"
+                  timestampString = "476900688.717976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NikeFetchDataTestUITests/NikeFetchDataTestUITests.m"
+            timestampString = "476905449.824792"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-testExample"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
